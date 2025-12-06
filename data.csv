@@ -1,0 +1,366 @@
+1. Lenovo IdeaPad Slim 3
+
+Brand: Lenovo
+
+Category: Laptop
+
+Price: $499
+
+Quantity: 120
+
+Warranty: 1 Year
+
+Features: 8GB RAM, 512GB SSD, Intel i5, 15.6" FHD
+
+Description: Lightweight laptop ideal for students and office work.
+
+2. Dell Inspiron 15
+
+Brand: Dell
+
+Category: Laptop
+
+Price: $699
+
+Quantity: 85
+
+Warranty: 1 Year onsite
+
+Features: Intel i5, 16GB RAM, 512GB SSD, Windows 11
+
+Description: Productivity laptop built for multitasking and reliability.
+
+3. HP Pavilion 14
+
+Brand: HP
+
+Category: Laptop
+
+Price: $649
+
+Quantity: 95
+
+Warranty: 1 Year
+
+Features: Intel i7, 8GB RAM, 512GB SSD
+
+Description: Premium laptop for students and light gaming.
+
+4. ASUS VivoBook 16
+
+Brand: ASUS
+
+Category: Laptop
+
+Price: $799
+
+Quantity: 50
+
+Warranty: 1 Year
+
+Features: AMD Ryzen 7, 16GB RAM, 1TB SSD
+
+Description: High-performance ultrabook with slim design.
+
+5. Apple MacBook Air M2
+
+Brand: Apple
+
+Category: Laptop
+
+Price: $1199
+
+Quantity: 45
+
+Warranty: 1 Year
+
+Features: M2 chip, 8GB RAM, 256GB SSD, Retina display
+
+Description: Premium lightweight laptop with long battery life.
+
+📱 SMARTPHONES
+6. Apple iPhone 14
+
+Brand: Apple
+
+Category: Smartphone
+
+Price: $799
+
+Quantity: 160
+
+Warranty: 1 Year
+
+Features: 128GB storage, 5G, OLED display
+
+Description: Popular flagship smartphone with advanced camera.
+
+7. Samsung Galaxy S23
+
+Brand: Samsung
+
+Category: Smartphone
+
+Price: $749
+
+Quantity: 140
+
+Warranty: 1 Year
+
+Features: 12GB RAM, 256GB storage, AMOLED screen
+
+Description: Fast performance with top-tier display.
+
+8. Google Pixel 7
+
+Brand: Google
+
+Category: Smartphone
+
+Price: $699
+
+Quantity: 100
+
+Warranty: 1 Year
+
+Features: 128GB storage, Tensor chip
+
+Description: Pure Android experience with great photo quality.
+
+9. Xiaomi Redmi Note 12 Pro
+
+Brand: Xiaomi
+
+Category: Smartphone
+
+Price: $299
+
+Quantity: 250
+
+Warranty: 1 Year
+
+Features: 8GB RAM, 128GB storage
+
+Description: Budget-friendly model with excellent battery life.
+
+10. OnePlus 11
+
+Brand: OnePlus
+
+Category: Smartphone
+
+Price: $599
+
+Quantity: 130
+
+Warranty: 1 Year
+
+Features: 256GB storage, Snapdragon chipset
+
+Description: Flagship performance at a mid-range price.
+
+🎧 ACCESSORIES
+11. Sony WH-1000XM5 Headphones
+
+Brand: Sony
+
+Category: Headphones
+
+Price: $349
+
+Quantity: 65
+
+Warranty: 1 Year
+
+Features: ANC, Bluetooth 5.2
+
+Description: Industry-leading noise-cancelling headphones.
+
+12. Logitech MX Master 3
+
+Brand: Logitech
+
+Category: Mouse
+
+Price: $99
+
+Quantity: 210
+
+Warranty: 1 Year
+
+Features: Wireless, USB-C charging
+
+Description: Premium ergonomic mouse for productivity.
+
+13. Samsung Galaxy Buds 2
+
+Brand: Samsung
+
+Category: Earbuds
+
+Price: $129
+
+Quantity: 180
+
+Warranty: 1 Year
+
+Features: ANC, Bluetooth
+
+Description: Compact earbuds with great sound quality.
+
+14. Apple AirPods Pro 2
+
+Brand: Apple
+
+Category: Earbuds
+
+Price: $249
+
+Quantity: 70
+
+Warranty: 1 Year
+
+Features: ANC, Spatial audio
+
+Description: Premium earbuds with great noise cancellation.
+
+🖨️ PRINTERS
+15. HP DeskJet 2332
+
+Brand: HP
+
+Category: Printer
+
+Price: $69
+
+Quantity: 300
+
+Warranty: 1 Year
+
+Features: Print/Copy/Scan
+
+Description: Affordable home printer.
+
+16. Canon Pixma G3010
+
+Brand: Canon
+
+Category: Printer
+
+Price: $199
+
+Quantity: 120
+
+Warranty: 1 Year
+
+Features: Ink tank, Wi-Fi
+
+Description: Ideal for high-volume printing.
+
+🖥️ MONITORS
+17. Samsung Odyssey G5
+
+Brand: Samsung
+
+Category: Monitor
+
+Price: $349
+
+Quantity: 80
+
+Warranty: 1 Year
+
+Features: 144Hz, 27-inch
+
+Description: Curved gaming monitor.
+
+18. LG UltraWide 34-Inch
+
+Brand: LG
+
+Category: Monitor
+
+Price: $499
+
+Quantity: 55
+
+Warranty: 1 Year
+
+Features: 34-inch ultrawide display
+
+Description: Great for productivity and multitasking.
+
+🎮 GAMING
+19. Sony PlayStation 5
+
+Brand: Sony
+
+Category: Gaming Console
+
+Price: $499
+
+Quantity: 40
+
+Warranty: 1 Year
+
+Features: 4K gaming, DualSense
+
+Description: Latest-gen gaming console.
+
+20. Xbox Series X
+
+Brand: Microsoft
+
+Category: Gaming Console
+
+Price: $499
+
+Quantity: 42
+
+Warranty: 1 Year
+
+Features: 4K, Game Pass support
+
+Description: High-power console for immersive gaming.
+
+id,category,brand,model,price,stock,description,text
+1,Smartphone,Apple,iPhone 14,899,25,"128GB, Blue, 12MP Camera","Apple iPhone 14 - 128GB Blue. Price $899. Stock 25 units."
+2,Smartphone,Apple,iPhone 14,999,12,"256GB, Red, 12MP Camera","Apple iPhone 14 - 256GB Red. Price $999. Stock 12 units."
+3,Smartphone,Samsung,Galaxy S23,799,30,"256GB AMOLED Display 12GB RAM","Samsung Galaxy S23 - 256GB, 12GB RAM. Price $799. Stock 30 units."
+4,Smartphone,Samsung,Galaxy A54,399,50,"128GB, 6GB RAM, AMOLED","Samsung Galaxy A54 - 128GB. Price $399. Stock 50 units."
+5,Laptop,Lenovo,IdeaPad Slim 3,550,17,"8GB RAM, 512GB SSD, 15.6-inch","Lenovo IdeaPad Slim 3 - 8GB RAM, 512GB SSD. Price $550. Stock 17 units."
+6,Laptop,HP,Pavilion 14,720,15,"16GB RAM, 512GB SSD, FHD","HP Pavilion 14 - 16GB RAM, 512GB SSD. Price $720. Stock 15 units."
+7,Laptop,Dell,Inspiron 15,690,20,"8GB RAM, 1TB HDD","Dell Inspiron 15 - 8GB RAM, 1TB HDD. Price $690. Stock 20 units."
+8,Laptop,Asus,VivoBook 16,640,18,"16GB RAM, 512GB SSD","Asus VivoBook 16 - 16GB RAM, 512GB SSD. Price $640. Stock 18 units."
+9,Smartwatch,Apple,Watch Series 9,450,22,"GPS, 41mm, Blue","Apple Watch Series 9 - GPS 41mm. Price $450. Stock 22 units."
+10,Smartwatch,Samsung,Galaxy Watch 6,320,28,"Bluetooth, Black","Samsung Galaxy Watch 6 - Bluetooth. Price $320. Stock 28 units."
+11,Headphone,Sony,WH-1000XM5,349,40,"Wireless Noise Cancelling","Sony WH-1000XM5 - Wireless NC. Price $349. Stock 40 units."
+12,Headphone,Bose,QC45,329,35,"Noise Cancelling","Bose QC45 Headphones - Price $329. Stock 35 units."
+13,Headphone,JBL,Live 660NC,199,50,"ANC, Bluetooth","JBL Live 660NC - ANC Bluetooth. Price $199. Stock 50 units."
+14,Keyboard,Logitech,K380,45,60,"Wireless Multi-Device","Logitech K380 - Wireless Keyboard. Price $45. Stock 60 units."
+15,Mouse,Logitech,MX Master 3,99,44,"Ergonomic USB-C","Logitech MX Master 3. Price $99. Stock 44 units."
+16,Monitor,Samsung,Odyssey G5,299,12,"144Hz, 27-inch curved","Samsung Odyssey G5 - 27-inch 144Hz. Price $299. Stock 12 units."
+17,Monitor,LG,UltraGear 24GQ,220,18,"144Hz, IPS","LG UltraGear 24GQ 24-inch. Price $220. Stock 18 units."
+18,Tablet,Apple,iPad 10th Gen,449,25,"64GB Wi-Fi","Apple iPad 10th Gen - 64GB. Price $449. Stock 25 units."
+19,Tablet,Samsung,Galaxy Tab S9,799,10,"256GB, AMOLED","Samsung Galaxy Tab S9 - 256GB. Price $799. Stock 10 units."
+20,Camera,Canon,EOS M50 Mark II,599,7,"Mirrorless, 4K","Canon EOS M50 Mark II - 4K Camera. Price $599. Stock 7 units."
+21,Camera,Sony,A6400,899,5,"APS-C Mirrorless","Sony A6400 - Mirrorless Camera. Price $899. Stock 5 units."
+22,TV,Samsung,Crystal UHD 55",499,6,"4K HDR","Samsung 55-inch Crystal UHD 4K TV. Price $499. Stock 6 units."
+23,TV,LG,NanoCell 50",529,8,"4K Smart TV","LG 50-inch NanoCell 4K Smart TV. Price $529. Stock 8 units."
+24,Accessory,Apple,AirPods Pro 2,249,55,"ANC earbuds","AirPods Pro 2 - ANC. Price $249. Stock 55 units."
+25,Accessory,Samsung,Galaxy Buds 2 Pro,179,48,"ANC earbuds","Samsung Galaxy Buds 2 Pro. Price $179. Stock 48 units."
+26,Console,Sony,PlayStation 5,499,14,"Digital Edition","Sony PlayStation 5 Digital Edition. Price $499. Stock 14 units."
+27,Console,Microsoft,Xbox Series X,499,10,"1TB SSD","Xbox Series X - 1TB. Price $499. Stock 10 units."
+28,Console,Nintendo,Switch OLED,349,22,"7-inch OLED","Nintendo Switch OLED. Price $349. Stock 22 units."
+29,Home Appliance,Philips,Air Fryer XL,199,30,"Rapid Air Technology","Philips XL Air Fryer. Price $199. Stock 30 units."
+30,Home Appliance,LG,Front Load Washer,699,4,"6 Motion Direct Drive","LG Front Load Washer. Price $699. Stock 4 units."
+31,Home Appliance,Panasonic,Microwave Oven,129,12,"1000W","Panasonic Microwave Oven 1000W. Price $129. Stock 12 units."
+32,Storage,WD,Blue SSD 1TB,89,34,"SATA 2.5-inch","WD Blue 1TB SSD. Price $89. Stock 34 units."
+33,Storage,Seagate,Barracuda 2TB,69,40,"HDD","Seagate Barracuda 2TB HDD. Price $69. Stock 40 units."
+34,Networking,TP-Link,Archer AX73,129,18,"Wi-Fi 6 Router","TP-Link Archer AX73 Wi-Fi 6 Router. Price $129. Stock 18 units."
+35,Networking,Netgear,Nighthawk AX8,199,10,"Wi-Fi 6","Netgear Nighthawk AX8 Wi-Fi 6 Router. Price $199. Stock 10 units."
+36,Printer,HP,DeskJet 4155e,129,12,"Wireless Color Printer","HP DeskJet 4155e Printer. Price $129. Stock 12 units."
+37,Printer,Canon,PIXMA G3020,199,8,"Refillable Ink Tank","Canon PIXMA G3020 Printer. Price $199. Stock 8 units."
+38,Gaming,Razer,DeathAdder V3,69,25,"Wired Gaming Mouse","Razer DeathAdder V3 - Wired Gaming Mouse. Price $69. Stock 25 units."
+39,Gaming,Asus,ROG Strix Scope,139,14,"Mechanical Keyboard","Asus ROG Strix Scope Keyboard. Price $139. Stock 14 units."
+40,Gaming,Logitech,G502 Hero,49,40,"Wired, 25K Sensor","Logitech G502 Hero - Wired Mouse. Price $49. Stock 40 units."
